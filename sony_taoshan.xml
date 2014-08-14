@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+           
+  <remote  name="github"
+           fetch=".."
+           sync-f="true"
+           sync-c="true"
+           sync-j="4" />
+
+  <default revision="refs/heads/master"
+           remote="github"
+           sync-f="true"
+           sync-c="true"
+           sync-j="4" />
+
+  <project path="deltajen" name="CyboLabs/DeltaJen" remote="github" revision="refs/heads/master" />
+  <project path="android-dinner" name="NemesisRE/dinner" remote="gtihub" revision="refs/heads/master" />
+
+</manifest>
