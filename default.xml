@@ -15,5 +15,6 @@
 
   <project path="deltajen" name="CyboLabs/DeltaJen" remote="github" revision="refs/heads/master" />
   <project path="android-dinner" name="NemesisRE/dinner" remote="github" revision="refs/heads/master" />
+  <project path="gif2boot" name="abielzuliom/gif2boot" remote="github" revision="refs/heads/master" />
 
 </manifest>
