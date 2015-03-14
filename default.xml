@@ -17,5 +17,6 @@
   <project path="android-dinner" name="NemesisRE/dinner" remote="github" />
   <project path="gif2boot" name="abielzuliom/gif2boot" remote="github" />
   <project path="linaro-4.9" name="Christopher83/arm-cortex_a7-linux-gnueabihf-linaro_4.9" remote="github" />
+  <project path="sqlmap" name="sqlmapproject/sqlmap" remote="github" />
 
 </manifest>
