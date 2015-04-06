@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
            
+  <remote name="aosp"
+          fetch="https://android.googlesource.com"
+          review="android-review.googlesource.com"
+          revision="refs/tags/android-5.1.0_r3" />
+
   <remote  name="github"
            fetch=".."
            sync-f="true"
@@ -13,8 +18,9 @@
            sync-c="true"
            sync-j="4" />
 
-  <project path="deltajen" name="CyboLabs/DeltaJen" remote="github" />
   <project path="android-dinner" name="NemesisRE/dinner" remote="github" />
+  <project path="arm-eabi-4.8" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" remote="aosp" />
+  <project path="deltajen" name="CyboLabs/DeltaJen" remote="github" />
   <project path="gif2boot" name="abielzuliom/gif2boot" remote="github" />
   <project path="linaromod-arm-eabi-4.9" name="hyper-toolchains/LinaroMod-arm-eabi-4.9" remote="github" />
   <project path="linaromod-androideabi-4.9" name="hyper-toolchains/LinaroMod-androideabi-4.9" remote="github" />
