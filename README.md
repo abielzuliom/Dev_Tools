@@ -13,6 +13,6 @@ What's included?
 
 - [LinaroMod Androideabi 4.9](https://github.com/hyper-toolchains/LinaroMod-androideabi-4.9)
 
-- [Pencil](https://github.com/prikhi/pencil) Multiplatform GUI Prototyping/Wireframing
+- [Pencil](https://github.com/prikhi/pencil) (Multiplatform GUI Prototyping/Wireframing)
 
 - [SQLMap](https://github.com/sqlmapproject/sqlmap)
