@@ -8,12 +8,7 @@
 
   <remote  name="github"
            fetch=".."
-           sync-f="true"
-           sync-c="true"
-           sync-j="4" />
-
-  <default revision="refs/heads/master"
-           remote="github"
+           revision="refs/heads/master"
            sync-f="true"
            sync-c="true"
            sync-j="4" />
