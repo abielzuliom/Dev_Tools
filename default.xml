@@ -4,11 +4,11 @@
   <remote name="aosp"
           fetch="https://android.googlesource.com"
           review="android-review.googlesource.com"
-          revision="refs/tags/android-5.1.0_r5" >
+          revision="refs/tags/android-5.1.0_r5" />
 
-  <remote  name="github"
-           fetch=".."
-           revision="refs/heads/master" />
+  <remote name="github"
+          fetch=".."
+          revision="refs/heads/master" />
 
   <project path="android-dinner" name="NemesisRE/dinner" remote="github" />
   <project path="apktool" name="iBotPeaches/Apktool" remote="github" />
