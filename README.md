@@ -15,6 +15,11 @@ What's included?
 
 - [LinaroMod Androideabi 4.9](https://github.com/hyper-toolchains/LinaroMod-androideabi-4.9)
 
+- [Material design stencils for Pencil](https://github.com/nathanielw/Android-Lollipop-Pencil-Stencils)
+
+- [Material design icons for Pencil](https://github.com/nathanielw/Material-Icons-for-Pencil)
+
 - [Pencil](https://github.com/prikhi/pencil) (Multiplatform GUI Prototyping/Wireframing)
+
 
 - [SQLMap](https://github.com/sqlmapproject/sqlmap)

@@ -25,6 +25,8 @@
   <project path="gif2boot" name="abielzuliom/gif2boot" remote="github" />
   <project path="linaromod-arm-eabi-4.9" name="hyper-toolchains/LinaroMod-arm-eabi-4.9" remote="github" />
   <project path="linaromod-androideabi-4.9" name="hyper-toolchains/LinaroMod-androideabi-4.9" remote="github" />
+  <project path="pencil-md" name="nathanielw/Android-Lollipop-Pencil-Stencils" remote="github" revision="develop" />
+  <project path="pencil-md-icons" name="nathanielw/Material-Icons-for-Pencil" remote="github" revision="develop" />
   <project path="pencil" name="prikhi/pencil" remote="github" revision="develop" />
   <project path="sqlmap" name="sqlmapproject/sqlmap" remote="github" />
 
