@@ -3,6 +3,8 @@ What's included?
 
 - [Android Dinner](https://github.com/NemesisRE/dinner)
 
+- [APKTool](https://github.com/iBotPeaches/Apktool)
+
 - [ARM-eabi 4-8](https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8)
 
 - [DeltaJen](https://github.com/CyboLabs/DeltaJen)

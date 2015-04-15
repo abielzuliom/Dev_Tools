@@ -19,6 +19,7 @@
            sync-j="4" />
 
   <project path="android-dinner" name="NemesisRE/dinner" remote="github" />
+  <project path="apktool" name="iBotPeaches/Apktool" remote="github" />
   <project path="arm-eabi-4.8" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" remote="aosp" />
   <project path="deltajen" name="CyboLabs/DeltaJen" remote="github" />
   <project path="gif2boot" name="abielzuliom/gif2boot" remote="github" />
