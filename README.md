@@ -11,6 +11,8 @@ What's included?
 
 - [gif2boot](https://github.com/abielzuliom/gif2boot)
 
+- [Iris Light GTK 2.0/3.0 Theme](https://github.com/xyl0n/iris-light)
+
 - [LinaroMod ARM-eabi 4.9](https://github.com/hyper-toolchains/LinaroMod-arm-eabi-4.9)
 
 - [LinaroMod Androideabi 4.9](https://github.com/hyper-toolchains/LinaroMod-androideabi-4.9)
@@ -20,6 +22,5 @@ What's included?
 - [Material design icons for Pencil](https://github.com/nathanielw/Material-Icons-for-Pencil)
 
 - [Pencil](https://github.com/prikhi/pencil) (Multiplatform GUI Prototyping/Wireframing)
-
 
 - [SQLMap](https://github.com/sqlmapproject/sqlmap)
