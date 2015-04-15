@@ -11,6 +11,8 @@ What's included?
 
 - [gif2boot](https://github.com/abielzuliom/gif2boot)
 
+- [Iris Dark GTK 2.0/3.0 Theme](https://github.com/xyl0n/iris)
+
 - [Iris Light GTK 2.0/3.0 Theme](https://github.com/xyl0n/iris-light)
 
 - [LinaroMod ARM-eabi 4.9](https://github.com/hyper-toolchains/LinaroMod-arm-eabi-4.9)

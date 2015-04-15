@@ -23,6 +23,7 @@
   <project path="arm-eabi-4.8" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" remote="aosp" />
   <project path="deltajen" name="CyboLabs/DeltaJen" remote="github" />
   <project path="gif2boot" name="abielzuliom/gif2boot" remote="github" />
+  <project path="iris" name="xyl0n/iris" remote="github" />
   <project path="iris-light" name="xyl0n/iris-light" remote="github" />
   <project path="linaromod-arm-eabi-4.9" name="hyper-toolchains/LinaroMod-arm-eabi-4.9" remote="github" />
   <project path="linaromod-androideabi-4.9" name="hyper-toolchains/LinaroMod-androideabi-4.9" remote="github" />
