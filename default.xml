@@ -4,7 +4,7 @@
   <remote name="aosp"
           fetch="https://android.googlesource.com"
           review="android-review.googlesource.com"
-          revision="refs/tags/android-5.1.0_r5"/>
+          revision="refs/tags/android-5.1.1_r1"/>
 
   <remote name="github"
           fetch=".."
@@ -20,7 +20,7 @@
   <project path="iris-light" name="xyl0n/iris-light" remote="github"/>
   <project path="linaromod-arm-eabi-4.9" name="hyper-toolchains/LinaroMod-arm-eabi-4.9" remote="github"/>
   <project path="linaromod-androideabi-4.9" name="hyper-toolchains/LinaroMod-androideabi-4.9" remote="github"/>
-  <project path="npm" name="npm/npm" remote"github"/>
+  <project path="npm" name="npm/npm" remote="github"/>
   <project path="pencil-md" name="nathanielw/Android-Lollipop-Pencil-Stencils" remote="github"/>
   <project path="pencil-md-icons" name="nathanielw/Material-Icons-for-Pencil" remote="github"/>
   <project path="pencil" name="prikhi/pencil" remote="github" revision="develop"/>
