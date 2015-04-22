@@ -9,7 +9,9 @@ What's included?
 
 - [DeltaJen](https://github.com/CyboLabs/DeltaJen)
 
-- [gif2boot](https://github.com/abielzuliom/gif2boot)
+- [Gif2boot](https://github.com/abielzuliom/gif2boot)
+
+- [Hub](https://github.com/github/hub)
 
 - [Iris Dark GTK 2.0/3.0 Theme](https://github.com/xyl0n/iris)
 
@@ -18,6 +20,8 @@ What's included?
 - [LinaroMod ARM-eabi 4.9](https://github.com/hyper-toolchains/LinaroMod-arm-eabi-4.9)
 
 - [LinaroMod Androideabi 4.9](https://github.com/hyper-toolchains/LinaroMod-androideabi-4.9)
+
+- [NPM](https://github.com/npm/npm)
 
 - [Material design stencils for Pencil](https://github.com/nathanielw/Android-Lollipop-Pencil-Stencils)
 
